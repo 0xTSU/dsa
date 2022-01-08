@@ -1,3 +1,6 @@
+#ifndef VERTEX_H_
+#define VERTEX_H_
+
 template <class Type>
 class vertex
 {
@@ -179,3 +182,5 @@ bool vertex<Type>::edgeIterator::operator!=(const edgeIterator& rhs)
 {
 	return (this->current != rhs.current);
 }
+
+#endif // VERTEX_H_
