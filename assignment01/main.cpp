@@ -2,7 +2,7 @@
 /// The task is to implement the class provided to create a 
 /// functional doubly linked list, and code a selection sort algorithm.
 
-#include "linkedlist.h"
+#include "linkedlist.hpp"
 #include <fstream>
 #include <iostream>
 #include <iomanip>
