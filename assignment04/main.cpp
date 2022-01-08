@@ -1,5 +1,5 @@
 /// @brief Assignment 4 - Multiplication in Parallel using Threads
-/// The task is to implement two numbers together.
+/// The task is to multiply two sizeable numbers together using threads.
 #include <iostream>
 #include <string>
 #include <vector>
